@@ -1,9 +1,9 @@
 "" {
 
 	colors {
-		Focus="102 51 153 255"		//dark purple main color
-		Focus2="130 88 189 255"		//lighter purple for headers
-		Focus3="130 88 189 150"		//lighter purple with opacity for content boxes
-		Focus4="93 46 140 255"		//darker purple for contrast
+		Focus="94 53 177 255"		//Darker Purple - Affects all primary bars, text highlight, heading text, achievements bar and buttons.
+		Focus2="126 87 194 255"		//Light Purple - Affects library info/link box in "Games Details" view and search underline color.
+		Focus3="126 87 194 150"		//Light Purple - Should be the same value as above with 150 opacity. Adds opacity to above value.
+		Focus4="103 58 183 255"		//Dark Purple - Affects all secondary bars and download bar.
 	}
 }
